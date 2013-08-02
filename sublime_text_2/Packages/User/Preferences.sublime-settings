@@ -1,6 +1,3 @@
-# IMPORTANT: This file is not intended to be directly edited within the Sublime Text 2 app, as it belongs to the 
-# plyfe/basic-dotfiles repo. If you need to edit it, talk to @liggsie or @chrislopresto and we'll find a solution that 
-# works better for you than including the basic sublime module in plyfe/our-boxen.
 {
   "auto_complete_commit_on_tab": true,
   "auto_match_enabled": false,
@@ -37,6 +34,7 @@
   [
     100
   ],
+  "theme": "Soda Dark.sublime-theme",
   "soda_classic_tabs": true,
   "tab_completion": true,
   "tab_size": 2,

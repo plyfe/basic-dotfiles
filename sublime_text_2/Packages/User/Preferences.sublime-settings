@@ -37,6 +37,7 @@
   [
     100
   ],
+  "theme": "Soda Dark.sublime-theme",
   "soda_classic_tabs": true,
   "tab_completion": true,
   "tab_size": 2,
